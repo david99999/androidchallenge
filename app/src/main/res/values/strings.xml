@@ -1,4 +1,18 @@
 <resources>
     <string name="app_name">Weather</string>
     <string name="action_settings">Settings</string>
+    <string name="permission_label">Allow access to GPS</string>
+    <string name="permission_desc">It is required to display your Weather forecast</string>
+    <string name="obtaining_location">Obtaining location</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="placeholder_current_text">Weather at 2:00 pm is Sunny</string>
+    <string name="weather_desc">Weather at %1$s is %2$s</string>
+    <string name="temp">%s ºF</string>
+    <string name="placeholder_temp">37º</string>
+    <string name="placeholder_date_today">date today</string>
+    <string name="mps">%s mps</string>
+    <string name="obtaining_weather">Obtaining weather info</string>
+    <string name="title">Weather Forecast</string>
 </resources>
